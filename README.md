@@ -7,7 +7,7 @@ This repository is the official PyTorch code for the paper ['C2AM-Unet :Coordina
 
 
 <div align="center">
-  <img src="figs/Fig1.png" width="100%">
+  <img src="Fig1.png" width="100%">
 </div>
 
  
